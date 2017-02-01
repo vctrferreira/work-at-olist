@@ -1,3 +1,9 @@
+bin
+lib
+local
+include
+share
+pip-selfcheck.json
 *.py[co]
 .DS_Store
 .idea
